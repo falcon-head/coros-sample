@@ -1,0 +1,18 @@
+{
+  "name": "capture.url.coros",
+  "version": "1.0.0",
+  "description": "Capture the external URLS from the specified link",
+  "main": "url_capture.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "scraping"
+  ],
+  "author": "Shrikrishna Joisa",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.2.0"
+  }
+}
